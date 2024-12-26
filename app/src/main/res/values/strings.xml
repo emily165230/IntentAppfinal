@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">IntentApp</string>
+    <string name="enter_text_to_share">Enter text to share</string>
+    <string name="share">Share</string>
+    <string name="share_text">Share Text</string>
+    <string name="make_a_call">Make a Call</string>
+    <string name="open_browser">Open Browser</string>
+</resources>
